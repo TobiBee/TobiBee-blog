@@ -1,6 +1,7 @@
 export const SITE = {
   website: "https://tobibee.dev/", // replace this with your deployed domain
   author: "Tobias Billinger",
+  profile: "https://tobibee.dev/", // author profile URL for structured data
   desc: "Personal Notes",
   title: "My Blog",
   ogImage: "astropaper-og.jpg",
