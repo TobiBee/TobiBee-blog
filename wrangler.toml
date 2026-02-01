@@ -1,0 +1,5 @@
+name = "my-blog"
+compatibility_date = "2026-01-30"
+
+[pages]
+build_output_dir = "dist"
