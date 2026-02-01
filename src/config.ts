@@ -12,7 +12,9 @@ export const SITE = {
   showArchives: true,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: false    
+    enabled: false,
+    url: "", // e.g., "https://github.com/user/repo/edit/main/"
+    text: "Edit this post",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
